@@ -22,7 +22,7 @@
 	![图片]（C:\Users\Administrator\Desktop\my\blogMD\hua.jpg "美丽花儿"）
 
 ## 锚点
- 我要调到[表格](#table1)
+ 我要调到[表格](#a)
 ## 列表
 ## 引用
 ## 插入图像
@@ -30,5 +30,4 @@
 ## 注脚
 ## LaTeX公式
 ## 流程图
-## 表格{#table1}
-
+## 表格{#a}#
