@@ -1,3 +1,8 @@
+---
+title: markdown语法教程
+date: 2017-05-25 10:40:42
+tags: 学习
+---
 [完整版Markdown 语法手册（完整版）](http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C#title)
 
 目录

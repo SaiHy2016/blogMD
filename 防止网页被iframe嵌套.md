@@ -1,3 +1,8 @@
+---
+title: 防止页面被iframe嵌套
+date: 2017-06-6 10:40:42
+tags: 学习
+---
 1. 方案一
         if (top != self) {
           top.location = self.location;

@@ -1,3 +1,8 @@
+---
+title: meta一些设置
+date: 2017-06-07 10:26:26
+tags: 学习
+---
 META标签分两大部分：HTTP标题信息(HTTP-EQUIV)和页面描述信息(NAME)。
 1. HTTP-EQUIV 
 
