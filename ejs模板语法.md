@@ -96,3 +96,5 @@ option：配置选项<br>
 此外，还有文件包含的语法：
 
     <%- include(path) %>
+
+参考文章[地址](http://www.jianshu.com/p/67dda091fc68)
