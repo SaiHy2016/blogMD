@@ -62,4 +62,9 @@ SNS已经成为网络上的一大热门应用，优质的内容通过分享在�
   <meta property=”og:videosrc” content=”http://player.youku.com/player.p ... AutoPlay=true/y.swf”/>
   <meta property=”og:width” content=”600″ />
   <meta property=”og:height” content=”716″/>
+
+  <meta http-equiv="Content-Language" content="zh-CN" />    html代码语言采用中文
+  <meta property="qc:admins" content="153033120760567656375" />  QQ登陆声明
+  <meta property="wb:webmaster" content="e9da5e10879ed7c9" />   微博登陆声明
+  <meta name="google-site-verification" content="tPkY-Quj85Ni78uIWOIREPO9k5xczDgjch10qsLfVfs" /> google的网站认证代码，证明该网站的所有者是你
   ```
