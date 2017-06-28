@@ -18,7 +18,7 @@ META标签分两大部分：HTTP标题信息(HTTP-EQUIV)和页面描述信息(NA
 
   5、<meta name="Robots" contect= "all|none|index|noindex|follow|nofollow">
 
-  6、<meta name="renderer" content="webkit">国产浏览器高速模式
+  6、<meta name=”renderer” content=”webkit|ie-comp|ie-stand” />国产浏览器高速模式
 
   　 其中的属性说明如下：
   　 设定为all：文件将被检索，且页面上的链接可以被查询；
